@@ -2,7 +2,7 @@
 
 ### I'm XMRhapsody, 
 
-A sophomore at Sichuan University of Arts and Science University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
+A sophomore at Sichuan University of Arts and Science University, China.
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
