@@ -15,7 +15,5 @@ A sophomore at Sichuan University of Arts and Science University, China, pursuin
    </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=XMRhapsody&show_icons=true)
 
